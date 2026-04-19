@@ -1,0 +1,50 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------< com.tuempresa.plugins:plugin-exportador-xlsx >------------
+[INFO] Building Plugin Exportador XLSX 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.7.0:tree (default-cli) @ plugin-exportador-xlsx ---
+[INFO] com.tuempresa.plugins:plugin-exportador-xlsx:jar:1.0.0
+[INFO] +- org.primefaces:primefaces:jar:14.0.9:compile
+[INFO] +- org.apache.poi:poi-ooxml:jar:5.2.2:compile
+[INFO] |  +- org.apache.poi:poi:jar:5.2.2:compile
+[INFO] |  |  +- commons-codec:commons-codec:jar:1.15:compile
+[INFO] |  |  +- org.apache.commons:commons-math3:jar:3.6.1:compile
+[INFO] |  |  \- com.zaxxer:SparseBitSet:jar:1.2:compile
+[INFO] |  +- org.apache.poi:poi-ooxml-lite:jar:5.2.2:compile
+[INFO] |  +- org.apache.xmlbeans:xmlbeans:jar:5.0.3:compile
+[INFO] |  +- org.apache.commons:commons-compress:jar:1.21:compile
+[INFO] |  +- commons-io:commons-io:jar:2.11.0:compile
+[INFO] |  +- com.github.virtuald:curvesapi:jar:1.07:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-api:jar:2.17.2:compile
+[INFO] |  \- org.apache.commons:commons-collections4:jar:4.4:compile
+[INFO] \- jakarta.platform:jakarta.jakartaee-web-api:jar:10.0.0:provided
+[INFO]    +- jakarta.servlet:jakarta.servlet-api:jar:6.0.0:provided
+[INFO]    +- jakarta.servlet.jsp:jakarta.servlet.jsp-api:jar:3.1.0:provided
+[INFO]    +- jakarta.el:jakarta.el-api:jar:5.0.1:provided
+[INFO]    +- jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0:provided
+[INFO]    +- jakarta.faces:jakarta.faces-api:jar:4.0.1:provided
+[INFO]    +- jakarta.ws.rs:jakarta.ws.rs-api:jar:3.1.0:provided
+[INFO]    +- jakarta.websocket:jakarta.websocket-api:jar:2.1.0:provided
+[INFO]    +- jakarta.websocket:jakarta.websocket-client-api:jar:2.1.0:provided
+[INFO]    +- jakarta.json:jakarta.json-api:jar:2.1.0:provided
+[INFO]    +- jakarta.json.bind:jakarta.json.bind-api:jar:3.0.0:provided
+[INFO]    +- jakarta.annotation:jakarta.annotation-api:jar:2.1.1:provided
+[INFO]    +- jakarta.ejb:jakarta.ejb-api:jar:4.0.1:provided
+[INFO]    +- jakarta.transaction:jakarta.transaction-api:jar:2.0.1:provided
+[INFO]    +- jakarta.persistence:jakarta.persistence-api:jar:3.1.0:provided
+[INFO]    +- jakarta.validation:jakarta.validation-api:jar:3.0.2:provided
+[INFO]    +- jakarta.interceptor:jakarta.interceptor-api:jar:2.1.0:provided
+[INFO]    +- jakarta.enterprise:jakarta.enterprise.cdi-api:jar:4.0.1:provided
+[INFO]    +- jakarta.enterprise:jakarta.enterprise.lang-model:jar:4.0.1:provided
+[INFO]    +- jakarta.inject:jakarta.inject-api:jar:2.0.1:provided
+[INFO]    +- jakarta.authentication:jakarta.authentication-api:jar:3.0.0:provided
+[INFO]    \- jakarta.security.enterprise:jakarta.security.enterprise-api:jar:3.0.0:provided
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.274 s
+[INFO] Finished at: 2025-07-17T20:57:01-05:00
+[INFO] ------------------------------------------------------------------------
